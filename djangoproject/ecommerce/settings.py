@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     "review.apps.ReviewConfig",
     "seller.apps.SellerConfig",
     "tag.apps.TagConfig",
+    "brand.apps.BrandConfig",
 ]
 
 MIDDLEWARE = [
